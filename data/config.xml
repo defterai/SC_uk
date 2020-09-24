@@ -169,6 +169,15 @@
 	<Letter code="1100" name="uni042C" />  <!-- ь -->
 	<Letter code="1101" name="uni042D" /> <!-- э -->
 	<Letter code="1102" name="uni042E" />  <!-- ю -->
-	<Letter code="1103" name="uni042F" />  <!-- я -->	
+	<Letter code="1103" name="uni042F" />  <!-- я -->
 	<Letter code="1105" name="uni0401" />  <!-- ё -->
+
+	<Letter code="1028" name="uni0404" />  <!-- Є -->
+	<Letter code="1030" name="uni0406" />  <!-- І -->
+	<Letter code="1031" name="uni0407" />  <!-- Ї -->
+	<Letter code="1108" name="uni0404" />  <!-- є -->
+	<Letter code="1110" name="uni0406" />  <!-- і -->
+	<Letter code="1111" name="uni0407" />  <!-- ї -->
+	<Letter code="1168" name="uni0490" />  <!-- Ґ -->
+	<Letter code="1169" name="uni0490" />  <!-- ґ -->
 </Font>
