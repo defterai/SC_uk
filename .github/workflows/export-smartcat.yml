@@ -26,9 +26,9 @@ jobs:
     env:
       Language_Id: 1058
       Language_Name: ukrainian
-      Global_Ini_Id: e972ef3ca07c435a7a5ecf49
-      Names_Ini_Id: a7e92f15207c43b96c9deaf6
-      Garbage_Ini_Id: b920ef21c07c435a7a5ecf49
+      Global_Ini_Id: b21831cdbab8c38a7dca32aa
+      Names_Ini_Id: eb5e46233ab8c34c09e855a6
+      Garbage_Ini_Id: 9708318cbab8c38a7dca32aa
 
     steps:
     - name: Configure git settings
