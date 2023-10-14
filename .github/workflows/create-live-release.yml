@@ -19,8 +19,8 @@ jobs:
   build_live:
     runs-on: ubuntu-latest
     permissions:
-        contents: read|write
-        deployments: read|write
+        contents: write
+        deployments: write
 
     steps:
       - name: Chekout
