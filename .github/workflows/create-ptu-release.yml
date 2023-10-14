@@ -19,9 +19,8 @@ jobs:
   build_ptu:
     runs-on: ubuntu-latest
     permissions:
-        contents: read
-        
-        pull-requests: write
+        contents: read|write
+        deployments: read|write
 
     steps:
       - name: Chekout

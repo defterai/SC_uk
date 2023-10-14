@@ -19,7 +19,7 @@ jobs:
   build_live:
     runs-on: ubuntu-latest
     permissions:
-        contents: read
+        contents: read|write
         deployments: read|write
 
     steps:
