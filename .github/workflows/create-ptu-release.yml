@@ -18,6 +18,10 @@ on:
 jobs:
   build_ptu:
     runs-on: ubuntu-latest
+    permissions:
+        contents: read
+        
+        pull-requests: write
 
     steps:
       - name: Chekout

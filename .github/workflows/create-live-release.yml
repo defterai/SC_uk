@@ -18,7 +18,10 @@ on:
 jobs:
   build_live:
     runs-on: ubuntu-latest
-    
+    permissions:
+        contents: read
+        deployments: read|write
+
     steps:
       - name: Chekout
         uses: actions/checkout@v2
